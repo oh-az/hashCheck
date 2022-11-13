@@ -3,6 +3,7 @@
 
 # hashCheck 1.0v
 A simple tool that reads hashes (md5 or sha-1) from a text file and outputs the results from VirusTotal.
+Requires Python 3
 
 # Features
 Since VirusTotal has limitions on the free API, this tool will send 1 hash every 15 seconds to avoid the limitions. So a list of 100 hashes will take approximately 20 minutes.
