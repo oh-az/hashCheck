@@ -1,3 +1,6 @@
+![HashCheck](https://user-images.githubusercontent.com/74332587/201526918-9416689a-4615-4103-945f-1b9f915ceb7f.PNG)
+
+
 # hashCheck 1.0v
 A simple tool that reads hashes (md5 or sha-1) from a text file and outputs the results from VirusTotal.
 
@@ -23,4 +26,3 @@ sudo pip3 install -r requierments.txt
 python hashCheck.py <HASH_TEXT_FILE.txt>
 ```
 
-![HashCheck](https://user-images.githubusercontent.com/74332587/201526918-9416689a-4615-4103-945f-1b9f915ceb7f.PNG)
